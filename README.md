@@ -5,7 +5,9 @@
 
 ## 주요 프로젝트
 
-### 추천 시스템 프로젝트
+### 네이버 부스트캠프 추천 시스템 프로젝트
+
+네이버 부스트캠프에서 진행한 추천 시스템 프로젝트입니다.
 
 - [RMSE: Ronaldo Market Search Engine](https://github.com/minzai0116/pro-recsys-finalproject-recsys-06)  
   LLM, 검색, 리랭킹을 결합한 대화형 추천 시스템 프로젝트
