@@ -30,12 +30,20 @@
 - **구현 / 성과**: Electronics 리뷰 `9,263,526건`, 메타데이터 `193,396개` 기반 Retrieval + Reranking + LLM 추천 파이프라인 설계
 - **링크**: [GitHub](https://github.com/minzai0116/pro-recsys-finalproject-recsys-06) · [발표 영상](https://youtu.be/SAFLFog-qMg)
 
+### Movie Recommendation
+
+- **역할 / 성격**: 네이버 커넥트재단 부스트캠프 AI Tech 8기 추천 시스템 팀 프로젝트
+- **무엇을 만들었나**: MovieLens 기반 사용자 시청 이력과 메타데이터를 활용한 2-Stage 영화 추천 시스템
+- **핵심 기술**: `EASE`, `Multi-VAE`, `CatBoost Ranker`, `RecBole`, `Feature Engineering`
+- **구현 / 성과**: 후보 생성과 리랭킹을 분리한 추천 구조를 설계하고 `Valid Recall@10 0.2012`, `Public LB 0.1670` 달성
+- **링크**: [GitHub](https://github.com/minzai0116/pro-recsys-movierecommendation-recsys-06)
+
 ### Sound_of_Heart
 
 - **역할 / 성격**: 팀 프로젝트, 상담형 LLM 챗봇과 커뮤니티 서비스
 - **무엇을 만들었나**: 정서적 어려움을 겪는 사용자를 위한 상담형 챗봇과 커뮤니티 기반 멘탈케어 서비스
 - **핵심 기술**: `LLM Prompting`, `Chatbot Flow`, `CBT`, `ACT`, `DBT`, `Community`
-- **내 역할 / 특징**: 챗봇 구조, 프롬프트 구성, 상담 이론 반영, 커뮤니티 기능 설계에 기여
+- **내 역할 / 특징**: PM / 프론트엔드 역할로 서비스 흐름과 주요 화면 구현에 참여하고, 챗봇 대화 흐름과 프롬프트 요구사항 정리에 기여
 - **링크**: [GitHub](https://github.com/minzai0116/Sound_of_Heart)
 
 ## 관심 분야
